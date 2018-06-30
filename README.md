@@ -47,3 +47,34 @@ git init
 ```
 
 <img src="step3.png">
+
+
+### Step #4: Check status of empty git repository
+```
+git status
+```
+
+<img src="step4.png">
+
+### Step #5: Create empty file
+```
+touch file.txt
+ls
+```
+
+<img src="step5.png">
+
+
+### Step #6: Check status of repository when a file is added
+```
+git status
+```
+
+<img src="step6.png">
+
+### Step #7: Add file to staging
+```
+git add file.txt
+```
+
+<img src="step7.png">

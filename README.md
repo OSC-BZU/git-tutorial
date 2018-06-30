@@ -78,3 +78,49 @@ git add file.txt
 ```
 
 <img src="step7.png">
+
+
+### Step #8: Configure email and user name
+```
+git config --global user.email "YourEmail@gmail.com"
+git config --global user.name "Your Name"
+```
+
+<img src="step8.png">
+
+### Step #9 Make a commit
+```
+git commit -m "my first commit!"
+```
+
+<img src="step9.png">
+
+
+### Step #10: Check git log
+```
+git log
+```
+
+<img src="step10.png">
+
+### Step #11: Make github account and repository
+
+Create an account on Github
+<img src="step11.png">
+
+Then create a repository by clicking on the top right "+" then "new repository".
+
+<img src="step11-1.png">
+
+After that give it a name 
+
+<img src="step11-2.png">
+
+### Step #12: Add remote url to local git repository
+```
+git remote add origin <link to repo>
+```
+
+first we have to copy the url of the repository we just made on github
+
+<img src="step12.png">

@@ -10,9 +10,9 @@
 
 ## Goals of this tutorial
 
-1. Understand the basics of ~git~
+1. Understand the basics of *git*
 2. Create a local git repository using the command line
-3. ~Push~ local git repository to github
+3. *Push* local git repository to github
 
 
 ## Important Git Commands

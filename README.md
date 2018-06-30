@@ -16,7 +16,6 @@
 
 
 ## Important Git Commands
-
 ```
 git init
 git status
@@ -24,3 +23,19 @@ git add <file name>
 git commit -m "your message"
 git push -u <remote name> <branch name>
 ```
+
+
+
+### Step #1: Installing Git
+
+Download git from the official website [Git](https://git-scm.com/). 
+
+
+
+### Step #2: Create directory for tutorial
+```
+mkdir git-tutorial
+cd git-tutorial
+```
+
+<img src="step2.png">

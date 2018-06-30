@@ -124,3 +124,23 @@ git remote add origin <link to repo>
 first we have to copy the url of the repository we just made on github
 
 <img src="step12.png">
+
+then we do the above command
+
+<img src="step12-1.png">
+
+### Step #13: Push local repository to remote repository
+
+```
+git push -u <remote repo> <branch name>
+```
+
+Here it will ask you for your github username and password
+
+<img src="step13.png">
+
+
+
+## And thats it! 
+
+<img src="done.png">

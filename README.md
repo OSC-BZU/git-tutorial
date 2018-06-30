@@ -22,5 +22,5 @@ git init
 git status
 git add <file name> 
 git commit -m "your message"
-git push -u origin master
+git push -u <remote name> <branch name>
 ```

@@ -39,3 +39,11 @@ cd git-tutorial
 ```
 
 <img src="step2.png">
+
+
+### Step #3: Initialize git repository
+```
+git init
+```
+
+<img src="step3.png">

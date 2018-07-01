@@ -30,7 +30,9 @@ git push -u <remote name> <branch name>
 
 Download git from the official website [Git](https://git-scm.com/). 
 
+Make sure to have this option, but other than that everything is default.
 
+<img src="pictures/gitbashsure.png">
 
 ### Step #2: Create directory for tutorial
 ```

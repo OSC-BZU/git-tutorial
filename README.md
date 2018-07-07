@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 # Git Tutorial for OSC in Arabic
@@ -115,17 +114,14 @@ git status
 
 </div>
 
+
 ```
 git add file.txt
 ```
 
 <img src="pictures/step7.png">
 
-<div  dir="rtl"  align="right">
-
-### ÇáÎØæÉ ÇáËÇãäå : ÊåíÆÉ ÇáÇíãíá æ ÇáÇÓã 
-
-</div>
+##ÇáÎØæÉ ÇáËÇãäå : ÊåíÆÉ ÇáÇíãíá æ ÇáÇÓã 
 
 ```
 git config --global user.email "YourEmail@gmail.com"
@@ -134,11 +130,7 @@ git config --global user.name "Your Name"
 
 <img src="pictures/step8.png">
 
-<div  dir="rtl"  align="right">
-
-### ÇáÎØæÉ ÇáÊÇÓÚå : ÇäÔÇÁ  a commit 
-
-</div>
+##ÇáÎØæÉ ÇáÊÇÓÚå : ÇäÔÇÁ  a commit 
 
 ```
 git commit -m "my first commit!"
@@ -147,11 +139,9 @@ git commit -m "my first commit!"
 <img src="pictures/step9.png">
 
 
-<div  dir="rtl"  align="right">
 
-### ÇáÎØæÉ ÇáÚÇÔÑå : ÇáÊÃßÏ ãä ÓÌá  Git 
 
-</div>
+##ÇáÎØæÉ ÇáÚÇÔÑå : ÇáÊÃßÏ ãä ÓÌá  Git 
 
 ```
 git log
@@ -159,60 +149,34 @@ git log
 
 <img src="pictures/step10.png">
 
-
-
-### ÇáÎØæÉ ÇáÍÇÏíå ÚÔÑ : ÇäÔÇÁ ÍÓÇÈ æ repository Úáì github 
+##ÇáÎØæÉ ÇáÍÇÏíå ÚÔÑ : ÇäÔÇÁ ÍÓÇÈ æ repository Úáì github 
 
 ÇäÔÇÁ ÍÓÇÈ Úáì github 
 
-
 <img src="pictures/step11.png">
-
-
 
 ÈÚÏ Ğáß Şã ÈÇäÔÇÁ repository ÈÇáäŞÑ Úáì ÇÚáì Çáíãíä "+" Ëã "new repository" . 
 
-
-
 <img src="pictures/step11-1.png">
-
-
 
 ÈÚÏ Ğáß Şã ÈæÖÚ ÇÓã áå .
 
 <img src="pictures/step11-2.png">
 
-<div  dir="rtl"  align="right"> 
-
-### ÇáÎØæÉ ÇáËÇäíÉ ÚÔÑ : ÇÖÇİÉ ÇáÑÇÈØ Úä ÈÚÏ á local git repository
-
-</div> 
+##ÇáÎØæÉ ÇáËÇäíÉ ÚÔÑ : ÇÖÇİÉ ÇáÑÇÈØ Úä ÈÚÏ á local git repository 
 
 ```
 git remote add origin <link to repo>
 ```
-
-<div  dir="rtl"  align="right"> 
-
 ÇæáÇ íÌÈ äÓÎ ÇáÑÇÈØ ãä repository ÇáÊí Êã ÇäÔÇÆåÇ İí github 
-
-</div>
 
 <img src="pictures/step12.png">
 
-<div  dir="rtl"  align="right"> 
-
 Ëã äŞæã ÈÇáÃãÑ ÃÚáÇå 
-
-</div>
 
 <img src="pictures/step12-1.png"> 
 
-<div  dir="rtl"  align="right"> 
-
-### ÇáÎØæÉ ÇáÇÎíÑå æ ÇÎíÑÇ : ÑİÚ local repository á    remot repository
-
-</div>
+##ÇáÎØæÉ ÇáÇÎíÑå æ ÇÎíÑÇ : ÑİÚ local repository á    remot repository
 
 ```
 git push -u <remote repo> <branch name>
@@ -221,7 +185,10 @@ git push -u <remote repo> <branch name>
 
 <img src="pictures/step13.png"> 
 
+<div  dir="rtl"  align="right">
+
 # æ åÇÖ åæ ^ ^ 
 
+</div>
 <img src="pictures/done.png">
 

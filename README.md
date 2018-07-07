@@ -121,7 +121,11 @@ git add file.txt
 
 <img src="pictures/step7.png">
 
-##«бќЎж… «бЋ«где :  ен∆… «б«нгнб ж «б«”г 
+<div  dir="rtl"  align="right">
+
+### «бќЎж… «бЋ«где :  ен∆… «б«нгнб ж «б«”г 
+
+</div>
 
 ```
 git config --global user.email "YourEmail@gmail.com"
@@ -181,7 +185,11 @@ git remote add origin <link to repo>
 ```
 git push -u <remote repo> <branch name>
 ```
+<div  dir="rtl"  align="right">
+
 »Џѕ –бя ”жЁ нёжг github »”√бя Џд «”г «бг” ќѕг ж ябг… «бг——ж , ёг »«ѕќ«бе« . 
+
+</div>
 
 <img src="pictures/step13.png"> 
 

@@ -134,7 +134,11 @@ git config --global user.name "Your Name"
 
 <img src="pictures/step8.png">
 
-##ÇáÎØæÉ ÇáÊÇÓÚå : ÇäÔÇÁ  a commit 
+<div  dir="rtl"  align="right">
+
+### ÇáÎØæÉ ÇáÊÇÓÚå : ÇäÔÇÁ  a commit 
+
+</div>
 
 ```
 git commit -m "my first commit!"
@@ -180,7 +184,11 @@ git remote add origin <link to repo>
 
 <img src="pictures/step12-1.png"> 
 
-##ÇáÎØæÉ ÇáÇÎíÑå æ ÇÎíÑÇ : ÑİÚ local repository á    remot repository
+<div  dir="rtl"  align="right">
+
+### ÇáÎØæÉ ÇáÇÎíÑå æ ÇÎíÑÇ : ÑİÚ local repository á    remot repository
+
+</div>
 
 ```
 git push -u <remote repo> <branch name>

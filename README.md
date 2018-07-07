@@ -194,6 +194,7 @@ git log
 ```
 git remote add origin <link to repo>
 ```
+
 <div  dir="rtl"  align="right"> 
 
 «Ê·« ÌÃ» ‰”Œ «·—«»ÿ „‰ repository «· Ì  „ «‰‘«∆Â« ›Ì github 

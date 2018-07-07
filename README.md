@@ -195,19 +195,19 @@ git log
 git remote add origin <link to repo>
 ```
 
-<div  dir="rtl"  align="right"> 
+
 
 «Ê·« ÌÃ» ‰”Œ «·—«»ÿ „‰ repository «· Ì  „ «‰‘«∆Â« ›Ì github 
 
-</div>
+
 
 <img src="pictures/step12.png">
 
-<div  dir="rtl"  align="right"> 
+
 
 À„ ‰ﬁÊ„ »«·√„— √⁄·«Â 
 
-</div>
+
 
 <img src="pictures/step12-1.png"> 
 

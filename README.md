@@ -5,9 +5,9 @@
 # Git Tutorial for OSC in Arabic
 
 <img src="https://s24255.pcdn.co/wp-content/uploads/2015/02/Git.png" height="250px" width="250px"> 
-
+<div dir="rtl" align="right">
 ####хяДгЦл йФжМмМ ушМя А git  йЦ езогоЕ Амок А OSC √ BZU
-
+</div>
 </div>
 
 ##гЕогщ гАхяДгЦл 

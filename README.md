@@ -1,21 +1,22 @@
+
+
 <div align="center">
 
-# Git Tutorial for OSC
+# Git Tutorial for OSC in Arabic
 
-<img src="https://s24255.pcdn.co/wp-content/uploads/2015/02/Git.png" height="250px" width="250px">
+<img src="https://s24255.pcdn.co/wp-content/uploads/2015/02/Git.png" height="250px" width="250px"> 
 
-##### A small tutorial for git that was prepared for an event for OSC - BZU
+####ÈÑäÇãÌ ÊæÖíÍí ÕÛíÑ á git  Êã ÅÚÏÇÏå áÍÏË á OSC – BZU
 
 </div>
 
-## Goals of this tutorial
+##ÇåÏÇİ ÇáÈÑäÇãÌ 
 
-1. Understand the basics of *git*
-2. Create a local git repository using the command line
-3. *Push* local git repository to github
+1.İåã ÇÓÇÓíÇÊ Git .
+2.ÇäÔÇÁ local git repository ÈÇ ÓÊÎÏÇã command line  .
+3.ÊÍãíá local git repository Úáì ãæŞÚ github .
 
-
-## Important Git Commands
+##ÇáÇæÇãÑ Çáãåãå İí Git 
 ```
 git init
 git status
@@ -24,17 +25,15 @@ git commit -m "your message"
 git push -u <remote name> <branch name>
 ```
 
+##ÇáÎØæÉ ÇáÇæáì : ÊËÈíÊ Git 
 
+Şã ÈÊÍãíá [Git](https://git-scm.com/) ãä ÇáãæŞÚ ÇáÑÓãí .
 
-### Step #1: Installing Git
-
-Download git from the official website [Git](https://git-scm.com/). 
-
-Make sure to have this option, but other than that everything is default.
+ÊÃßÏ ãä ÍÕæáß Úáì åĞÇ ÇáÇÎÊíÇÑ , áßä ßá ÔíÁ ÛíÑ åĞÇ íßæä ÇİÊÑÇÖí . 
 
 <img src="pictures/gitbashsure.png">
 
-### Step #2: Create directory for tutorial
+##ÇáÎØæÉ ÇáËÇäíå : ÇäÔÇÁ Ïáíá á ÇáÈÑäÇãÌ 
 ```
 mkdir git-tutorial
 cd git-tutorial
@@ -42,8 +41,7 @@ cd git-tutorial
 
 <img src="pictures/step2.png">
 
-
-### Step #3: Initialize git repository
+##ÇáÎØæÉ ÇáËÇáËÉ : ÊåíÆÉ git repository 
 ```
 git init
 ```
@@ -51,14 +49,17 @@ git init
 <img src="pictures/step3.png">
 
 
-### Step #4: Check status of empty git repository
+
+
+##ÇáÎØæÉ ÇáÑÇÈÚå : ÇáÊÍŞŞ ãä git repository ÇĞÇ ßÇäÊ İÇÑÛå 
 ```
 git status
 ```
 
 <img src="pictures/step4.png">
 
-### Step #5: Create empty file
+##ÇáÎØæÉ ÇáÎÇãÓÉ : ÇäÔÇÁ ãáİ İÇÑÛ 
+
 ```
 touch file.txt
 ls
@@ -67,22 +68,26 @@ ls
 <img src="pictures/step5.png">
 
 
-### Step #6: Check status of repository when a file is added
+##ÇáÎØæÉ ÇáÓÇÏÓÉ : ÇáÊÃßÏ ãä ÍÇáÉ repository ÚäÏ ÇÖÇİÉ Çáãáİ 
+
 ```
 git status
 ```
 
 <img src="pictures/step6.png">
 
-### Step #7: Add file to staging
+ãáÇÍÙÉ : áÓÇ ÖÇíá ÓÈÚ ÎØæÇÊ ^ ^
+
+##ÇáÎØæÉ ÇáÓÇÈÚÉ : ÇÖÇİÉ Çáãáİ Úáì ÇáãäÕÉ 
+
 ```
 git add file.txt
 ```
 
 <img src="pictures/step7.png">
 
+##ÇáÎØæÉ ÇáËÇãäå : ÊåíÆÉ ÇáÇíãíá æ ÇáÇÓã 
 
-### Step #8: Configure email and user name
 ```
 git config --global user.email "YourEmail@gmail.com"
 git config --global user.name "Your Name"
@@ -90,7 +95,8 @@ git config --global user.name "Your Name"
 
 <img src="pictures/step8.png">
 
-### Step #9 Make a commit
+##ÇáÎØæÉ ÇáÊÇÓÚå : ÇäÔÇÁ  a commit 
+
 ```
 git commit -m "my first commit!"
 ```
@@ -98,51 +104,53 @@ git commit -m "my first commit!"
 <img src="pictures/step9.png">
 
 
-### Step #10: Check git log
+
+
+##ÇáÎØæÉ ÇáÚÇÔÑå : ÇáÊÃßÏ ãä ÓÌá  Git 
+
 ```
 git log
 ```
 
 <img src="pictures/step10.png">
 
-### Step #11: Make github account and repository
+##ÇáÎØæÉ ÇáÍÇÏíå ÚÔÑ : ÇäÔÇÁ ÍÓÇÈ æ repository Úáì github 
 
-Create an account on Github
+ÇäÔÇÁ ÍÓÇÈ Úáì github 
+
 <img src="pictures/step11.png">
 
-Then create a repository by clicking on the top right "+" then "new repository".
+ÈÚÏ Ğáß Şã ÈÇäÔÇÁ repository ÈÇáäŞÑ Úáì ÇÚáì Çáíãíä "+" Ëã "new repository" . 
 
 <img src="pictures/step11-1.png">
 
-After that give it a name 
+ÈÚÏ Ğáß Şã ÈæÖÚ ÇÓã áå .
 
 <img src="pictures/step11-2.png">
 
-### Step #12: Add remote url to local git repository
+##ÇáÎØæÉ ÇáËÇäíÉ ÚÔÑ : ÇÖÇİÉ ÇáÑÇÈØ Úä ÈÚÏ á local git repository 
+
 ```
 git remote add origin <link to repo>
 ```
-
-first we have to copy the url of the repository we just made on github
+ÇæáÇ íÌÈ äÓÎ ÇáÑÇÈØ ãä repository ÇáÊí Êã ÇäÔÇÆåÇ İí github 
 
 <img src="pictures/step12.png">
 
-then we do the above command
+Ëã äŞæã ÈÇáÃãÑ ÃÚáÇå 
 
-<img src="pictures/step12-1.png">
+<img src="pictures/step12-1.png"> 
 
-### Step #13: Push local repository to remote repository
+##ÇáÎØæÉ ÇáÇÎíÑå æ ÇÎíÑÇ : ÑİÚ local repository á    remot repository
 
 ```
 git push -u <remote repo> <branch name>
 ```
+ÈÚÏ Ğáß Óæİ íŞæã github ÈÓÃáß Úä ÇÓã ÇáãÓÊÎÏã æ ßáãÉ ÇáãÑÑæ , Şã ÈÇÏÎÇáåÇ . 
 
-Here it will ask you for your github username and password
+<img src="pictures/step13.png"> 
 
-<img src="pictures/step13.png">
-
-
-
-## And thats it! 
+# æ åÇÖ åæ ^ ^ 
 
 <img src="pictures/done.png">
+

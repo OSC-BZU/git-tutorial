@@ -6,7 +6,7 @@
 
 <img src="https://s24255.pcdn.co/wp-content/uploads/2015/02/Git.png" height="250px" width="250px"> 
 <div  dir=■rtl■  align=■right■> 
-###хяДгЦл йФжМмМ ушМя А git  йЦ езогоЕ Амок А OSC √ BZU
+####хяДгЦл йФжМмМ ушМя А git  йЦ езогоЕ Амок А OSC √ BZU
 </div>
 </div>
 <div  dir="rtl"  align="right"> 
@@ -159,13 +159,12 @@ git log
 
 <img src="pictures/step10.png">
 
-<div  dir="rtl"  align="right">
+
 
 ### гАньФи гАмгоМЕ зтя : гДтга мсгх Ф repository зАЛ github 
 
 гДтга мсгх зАЛ github 
 
-</div>
 
 <img src="pictures/step11.png">
 

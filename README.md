@@ -159,6 +159,5 @@ Here it will ask you for your github username and password
 
 this is everyting for this totorial follow us in :
 
-facebook groub : [Facebook](https://www.facebook.com/groups/256253458276184/?ref=bookmarks).
-
+[Facebook Group](https://www.facebook.com/groups/256253458276184/?ref=bookmarks).
 [github osc](https://github.com/OSC-BZU)

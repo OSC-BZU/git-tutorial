@@ -11,7 +11,7 @@
 </div>
 <div  dir="rtl"  align="right"> 
 
-ÇåÏÇİ ÇáÈÑäÇãÌ 
+### ÇåÏÇİ ÇáÈÑäÇãÌ 
 </div>
 <div  dir="rtl"  align="right"> 
 
@@ -23,7 +23,9 @@
 
 </div>
 <div  dir="rtl"  align="right"> 
-ÇáÇæÇãÑ Çáãåãå İí Git 
+
+### ÇáÇæÇãÑ Çáãåãå İí Git 
+
 </div>
 ```
 git init
@@ -34,7 +36,7 @@ git push -u <remote name> <branch name>
 ```
 <div  dir="rtl"  align="right">
 
-ÇáÎØæÉ ÇáÇæáì : ÊËÈíÊ Git 
+### ÇáÎØæÉ ÇáÇæáì : ÊËÈíÊ Git
 
 Şã ÈÊÍãíá [Git](https://git-scm.com/) ãä ÇáãæŞÚ ÇáÑÓãí .
 
@@ -43,7 +45,12 @@ git push -u <remote name> <branch name>
 </div>
 <img src="pictures/gitbashsure.png">
 
-##ÇáÎØæÉ ÇáËÇäíå : ÇäÔÇÁ Ïáíá á ÇáÈÑäÇãÌ 
+<div  dir="rtl"  align="right">
+
+### ÇáÎØæÉ ÇáËÇäíå : ÇäÔÇÁ Ïáíá á ÇáÈÑäÇãÌ 
+
+</div>
+
 ```
 mkdir git-tutorial
 cd git-tutorial
@@ -51,7 +58,12 @@ cd git-tutorial
 
 <img src="pictures/step2.png">
 
-##ÇáÎØæÉ ÇáËÇáËÉ : ÊåíÆÉ git repository 
+<div  dir="rtl"  align="right">
+
+### ÇáÎØæÉ ÇáËÇáËÉ : ÊåíÆÉ git repository 
+
+</div>
+
 ```
 git init
 ```
@@ -59,16 +71,23 @@ git init
 <img src="pictures/step3.png">
 
 
+<div  dir="rtl"  align="right">
 
+### ÇáÎØæÉ ÇáÑÇÈÚå : ÇáÊÍŞŞ ãä git repository ÇĞÇ ßÇäÊ İÇÑÛå 
 
-##ÇáÎØæÉ ÇáÑÇÈÚå : ÇáÊÍŞŞ ãä git repository ÇĞÇ ßÇäÊ İÇÑÛå 
+</div>
+
 ```
 git status
 ```
 
 <img src="pictures/step4.png">
 
-##ÇáÎØæÉ ÇáÎÇãÓÉ : ÇäÔÇÁ ãáİ İÇÑÛ 
+<div  dir="rtl"  align="right">
+
+### ÇáÎØæÉ ÇáÎÇãÓÉ : ÇäÔÇÁ ãáİ İÇÑÛ 
+
+</div>
 
 ```
 touch file.txt
@@ -77,9 +96,11 @@ ls
 
 <img src="pictures/step5.png">
 
+<div  dir="rtl"  align="right">
 
-##ÇáÎØæÉ ÇáÓÇÏÓÉ : ÇáÊÃßÏ ãä ÍÇáÉ repository ÚäÏ ÇÖÇİÉ Çáãáİ 
+### ÇáÎØæÉ ÇáÓÇÏÓÉ : ÇáÊÃßÏ ãä ÍÇáÉ repository ÚäÏ ÇÖÇİÉ Çáãáİ 
 
+</div>
 ```
 git status
 ```

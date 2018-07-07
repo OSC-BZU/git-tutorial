@@ -157,6 +157,4 @@ Here it will ask you for your github username and password
 
 <img src="pictures/done.png">
 
-this is everyting for this totorial follow us in :
-
-[Facebook Group](https://www.facebook.com/groups/256253458276184/?ref=bookmarks) and [github osc](https://github.com/OSC-BZU)
+this is everyting for this totorial follow us in : [Facebook Group](https://www.facebook.com/groups/256253458276184/?ref=bookmarks) and [github osc](https://github.com/OSC-BZU)

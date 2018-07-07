@@ -170,7 +170,7 @@ git log
 
 <img src="pictures/step11-2.png">
 
-##гАньФи гАкгДМи зтя : гжгщи гАягхь зД хзо А local git repository 
+### гАньФи гАкгДМи зтя : гжгщи гАягхь зД хзо А local git repository 
 
 ```
 git remote add origin <link to repo>

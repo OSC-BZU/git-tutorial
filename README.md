@@ -136,7 +136,9 @@ git config --global user.name "Your Name"
 
 
 <div  dir="rtl"  align="right">
-##ÇáÎØæÉ ÇáÊÇÓÚå : ÇäÔÇÁ  a commit 
+### ÇáÎØæÉ ÇáÊÇÓÚå : ÇäÔÇÁ  a commit 
+
+</div>
 
 ```
 git commit -m "my first commit!"
@@ -145,9 +147,11 @@ git commit -m "my first commit!"
 <img src="pictures/step9.png">
 
 
+<div  dir="rtl"  align="right">
 
+### ÇáÎØæÉ ÇáÚÇÔÑå : ÇáÊÃßÏ ãä ÓÌá  Git 
 
-##ÇáÎØæÉ ÇáÚÇÔÑå : ÇáÊÃßÏ ãä ÓÌá  Git 
+</div>
 
 ```
 git log

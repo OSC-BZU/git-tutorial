@@ -169,19 +169,17 @@ git log
 
 <img src="pictures/step11.png">
 
-<div  dir="rtl"  align="right"> 
+
 
 »Џѕ –бя ёг »«д‘«Ѕ repository »«бдё— Џбм «Џбм «бнгнд "+" Ћг "new repository" . 
 
-</div>
+
 
 <img src="pictures/step11-1.png">
 
-<div  dir="rtl"  align="right"> 
+
 
 »Џѕ –бя ёг »ж÷Џ «”г бе .
-
-</div>
 
 <img src="pictures/step11-2.png">
 
@@ -195,23 +193,27 @@ git log
 git remote add origin <link to repo>
 ```
 
-
+<div  dir="rtl"  align="right"> 
 
 «жб« нћ» д”ќ «б—«»Ў гд repository «б н  г «д‘«∆е« Ён github 
 
-
+</div>
 
 <img src="pictures/step12.png">
 
-
+<div  dir="rtl"  align="right"> 
 
 Ћг дёжг »«б√г— √Џб«е 
 
-
+</div>
 
 <img src="pictures/step12-1.png"> 
 
-##«бќЎж… «б«ќн—е ж «ќн—« : —ЁЏ local repository б    remot repository
+<div  dir="rtl"  align="right"> 
+
+### «бќЎж… «б«ќн—е ж «ќн—« : —ЁЏ local repository б    remot repository
+
+</div>
 
 ```
 git push -u <remote repo> <branch name>

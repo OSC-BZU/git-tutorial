@@ -14,6 +14,19 @@
 2. Create a local git repository using the command line
 3. *Push* local git repository to github
 
+## Important Linux Commands
+
+here is some helpfull commands in this tutorial
+
+```
+- pwd : to show the current path
+- mkdir < chooseAnyName > : to creat a new directory in current path
+- cd < dirName > : to change path to the chosen directory
+- rm -rf < dirOrFileName > : to delete file or directory in the current path
+- touch < chosseAnyName > : to create a new file tn current path
+```
+
+
 
 ## Important Git Commands
 ```

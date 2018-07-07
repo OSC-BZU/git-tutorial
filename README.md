@@ -11,9 +11,10 @@
 </div>
 <div  dir="rtl"  align="right"> 
 
-##«Âœ«› «·»—‰«„Ã 
+«Âœ«› «·»—‰«„Ã 
 </div>
 <div  dir="rtl"  align="right"> 
+
 1.›Â„ «”«”Ì«  Git .
 
 2.«‰‘«¡ local git repository »« ” Œœ«„ command line  .
@@ -22,7 +23,7 @@
 
 </div>
 <div  dir="rtl"  align="right"> 
-##«·«Ê«„— «·„Â„Â ›Ì Git 
+«·«Ê«„— «·„Â„Â ›Ì Git 
 </div>
 ```
 git init
@@ -31,13 +32,15 @@ git add <file name>
 git commit -m "your message"
 git push -u <remote name> <branch name>
 ```
+<div  dir="rtl"  align="right">
 
-##«·ŒÿÊ… «·«Ê·Ï :  À»Ì  Git 
+«·ŒÿÊ… «·«Ê·Ï :  À»Ì  Git 
 
 ﬁ„ » Õ„Ì· [Git](https://git-scm.com/) „‰ «·„Êﬁ⁄ «·—”„Ì .
 
  √ﬂœ „‰ Õ’Ê·ﬂ ⁄·Ï Â–« «·«Œ Ì«— , ·ﬂ‰ ﬂ· ‘Ì¡ €Ì— Â–« ÌﬂÊ‰ «› —«÷Ì . 
 
+</div>
 <img src="pictures/gitbashsure.png">
 
 ##«·ŒÿÊ… «·À«‰ÌÂ : «‰‘«¡ œ·Ì· · «·»—‰«„Ã 

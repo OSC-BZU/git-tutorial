@@ -24,7 +24,7 @@ git commit -m "your message"
 git push -u <remote name> <branch name>
 ```
 
-## Important Linux Command
+## Important Linux Commands
 
 here is some helpfull commands in this tutorial
 
@@ -156,3 +156,9 @@ Here it will ask you for your github username and password
 ## And thats it! 
 
 <img src="pictures/done.png">
+
+this is everyting for this totorial follow us in :
+
+facebook groub : [Facebook](https://www.facebook.com/groups/256253458276184/?ref=bookmarks).
+
+[github osc](https://github.com/OSC-BZU)

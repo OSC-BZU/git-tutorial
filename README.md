@@ -6,7 +6,7 @@
 
 <img src="https://s24255.pcdn.co/wp-content/uploads/2015/02/Git.png" height="250px" width="250px"> 
 <div  dir=ФrtlФ  align=ФrightФ> 
-### »—д«гћ  ж÷нЌн ’џн— б git   г ≈Џѕ«ѕе бЌѕЋ б OSC Ц BZU
+###»—д«гћ  ж÷нЌн ’џн— б git   г ≈Џѕ«ѕе бЌѕЋ б OSC Ц BZU
 </div>
 </div>
 <div  dir="rtl"  align="right"> 
@@ -147,9 +147,11 @@ git commit -m "my first commit!"
 <img src="pictures/step9.png">
 
 
+<div  dir="rtl"  align="right">
 
+### «бќЎж… «бЏ«‘—е : «б √яѕ гд ”ћб  Git 
 
-##«бќЎж… «бЏ«‘—е : «б √яѕ гд ”ћб  Git 
+</div>
 
 ```
 git log
@@ -157,30 +159,54 @@ git log
 
 <img src="pictures/step10.png">
 
-##«бќЎж… «бЌ«ѕне Џ‘— : «д‘«Ѕ Ќ”«» ж repository Џбм github 
+<div  dir="rtl"  align="right">
+
+### «бќЎж… «бЌ«ѕне Џ‘— : «д‘«Ѕ Ќ”«» ж repository Џбм github 
 
 «д‘«Ѕ Ќ”«» Џбм github 
 
+</div>
+
 <img src="pictures/step11.png">
+
+<div  dir="rtl"  align="right"> 
 
 »Џѕ –бя ёг »«д‘«Ѕ repository »«бдё— Џбм «Џбм «бнгнд "+" Ћг "new repository" . 
 
+</div>
+
 <img src="pictures/step11-1.png">
+
+<div  dir="rtl"  align="right"> 
 
 »Џѕ –бя ёг »ж÷Џ «”г бе .
 
+</div>
+
 <img src="pictures/step11-2.png">
 
-##«бќЎж… «бЋ«дн… Џ‘— : «÷«Ё… «б—«»Ў Џд »Џѕ б local git repository 
+<div  dir="rtl"  align="right"> 
+
+### «бќЎж… «бЋ«дн… Џ‘— : «÷«Ё… «б—«»Ў Џд »Џѕ б local git repository
+
+</div> 
 
 ```
 git remote add origin <link to repo>
 ```
+<div  dir="rtl"  align="right"> 
+
 «жб« нћ» д”ќ «б—«»Ў гд repository «б н  г «д‘«∆е« Ён github 
+
+</div>
 
 <img src="pictures/step12.png">
 
+<div  dir="rtl"  align="right"> 
+
 Ћг дёжг »«б√г— √Џб«е 
+
+</div>
 
 <img src="pictures/step12-1.png"> 
 

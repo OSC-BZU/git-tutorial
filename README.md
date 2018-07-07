@@ -6,7 +6,7 @@
 
 <img src="https://s24255.pcdn.co/wp-content/uploads/2015/02/Git.png" height="250px" width="250px"> 
 <div  dir=”rtl”  align=”right”> 
-####ÈÑäÇãÌ ÊæÖíÍí ÕÛíÑ á git  Êã ÅÚÏÇÏå áÍÏË á OSC – BZU
+### ÈÑäÇãÌ ÊæÖíÍí ÕÛíÑ á git  Êã ÅÚÏÇÏå áÍÏË á OSC – BZU
 </div>
 </div>
 <div  dir="rtl"  align="right"> 
@@ -107,9 +107,13 @@ git status
 
 <img src="pictures/step6.png">
 
+<div  dir="rtl"  align="right">
+
 ãáÇÍÙÉ : áÓÇ ÖÇíá ÓÈÚ ÎØæÇÊ ^ ^
 
-##ÇáÎØæÉ ÇáÓÇÈÚÉ : ÇÖÇİÉ Çáãáİ Úáì ÇáãäÕÉ 
+### ÇáÎØæÉ ÇáÓÇÈÚÉ : ÇÖÇİÉ Çáãáİ Úáì ÇáãäÕÉ 
+
+</div>
 
 ```
 git add file.txt
@@ -117,7 +121,11 @@ git add file.txt
 
 <img src="pictures/step7.png">
 
-##ÇáÎØæÉ ÇáËÇãäå : ÊåíÆÉ ÇáÇíãíá æ ÇáÇÓã 
+<div  dir="rtl"  align="right">
+
+### ÇáÎØæÉ ÇáËÇãäå : ÊåíÆÉ ÇáÇíãíá æ ÇáÇÓã 
+
+</div>
 
 ```
 git config --global user.email "YourEmail@gmail.com"
@@ -126,7 +134,11 @@ git config --global user.name "Your Name"
 
 <img src="pictures/step8.png">
 
-##ÇáÎØæÉ ÇáÊÇÓÚå : ÇäÔÇÁ  a commit 
+<div  dir="rtl"  align="right">
+
+### ÇáÎØæÉ ÇáÊÇÓÚå : ÇäÔÇÁ  a commit 
+
+</div>
 
 ```
 git commit -m "my first commit!"

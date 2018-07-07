@@ -9,13 +9,15 @@
 ####ÈÑäÇãÌ ÊæÖíÍí ÕÛíÑ á git  Êã ÅÚÏÇÏå áÍÏË á OSC – BZU
 </div>
 </div>
+<div  dir=”rtl”  align=”right”> 
 
 ##ÇåÏÇİ ÇáÈÑäÇãÌ 
-
+</div>
+<div  dir=”rtl”  align=”right”> 
 1.İåã ÇÓÇÓíÇÊ Git .
 2.ÇäÔÇÁ local git repository ÈÇ ÓÊÎÏÇã command line  .
 3.ÊÍãíá local git repository Úáì ãæŞÚ github .
-
+</div>
 ##ÇáÇæÇãÑ Çáãåãå İí Git 
 ```
 git init
